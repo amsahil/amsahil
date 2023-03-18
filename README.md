@@ -1,4 +1,4 @@
-![logo](https://github.com/amsahil/amsahil/blob/main/Screenshot%202023-03-18%20222203.jpg)
+![logo](https://github.com/amsahil/amsahil/blob/main/Dark%20Blue%20Simple%20Modern%20Virtual%20Technology%20Banner%20(1).gif)
 <h1 align="center">Hi 👋, I'm Sahil Kumar</h1>
 <h3 align="center">A Passionate Programmer & Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/cTWvsKv2Fc7C5UDE5anDrCErBLMupkD9BAQQL3XPTBM/rs:fit:800:600:1/g:ce/aHR0cHM6Ly9jZG4u/ZHJpYmJibGUuY29t/L3VzZXJzLzEwNTk1/ODMvc2NyZWVuc2hv/dHMvNDE3MTM2Ny9j/b2RpbmctZnJlYWsu/Z2lm.gif">
