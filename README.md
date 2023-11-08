@@ -12,11 +12,11 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **C,Python,C++ & Web development**
+- 🤝 I’m looking for help with **PHP,Python,C++ & Web development**
 
-- 👨‍💻 All of my projects are available at [http://amsahil.engineer/](http://amsahil.engineer/)
+- 👨‍💻 All of my projects are available at [https://developersahil.engineer/](https://developersahil.engineer/)
 
-- 📝 I regularly write articles on [https://medium.com/@its.sahilkr](https://medium.com/@its.sahilkr)
+- 📝 I regularly write articles on [(https://medium.com/@its.sahilkr)](https://medium.com/@amsahil)
 
 - 💬 Ask me about **Competitive Programming & Development**
 
